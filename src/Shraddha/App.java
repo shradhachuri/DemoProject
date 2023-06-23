@@ -14,9 +14,7 @@ public static void main(String [] args) {
     else if ( number > 0.0)
         System.out.println(number + " is a positive number.");
 
-    // if both test expression is evaluated to false
-    else
-        System.out.println(number + " is 0.");
+ 
 }
 }
 
